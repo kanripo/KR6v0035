@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:15.924589
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:08
 #+TITLE: 因緣心釋論開決記
 #+PROPERTY: CBETA_ID W03n0028
 #+PROPERTY: ID KR6v0035
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 03, No. 028
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0035_W_001-0224a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 因緣心釋論開決記¶
 整理者　華方田¶
 ¶
 
@@ -53,10 +53,9 @@
 丙本，伯2211號。¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 因緣心釋論開決記一卷¶
+因緣心釋論開決記一卷¶
 ¶
 
 將釋此論，先以四門分別，然後釋其正論之文。言四¶
