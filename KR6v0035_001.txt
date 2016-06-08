@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:15.924589
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:08
 #+TITLE: 因緣心釋論開決記
 #+PROPERTY: CBETA_ID W03n0028
 #+PROPERTY: ID KR6v0035
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　華方田¶
 ¶
 
@@ -53,7 +53,7 @@
 丙本，伯2211號。¶
 ¶
 
-錄文¶
+* 錄文¶
 ¶
 
  因緣心釋論開決記一卷¶
